@@ -52,3 +52,6 @@
 
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+
+#define MK_C_OFFSET_1 13
+#define MK_3_SPEED
