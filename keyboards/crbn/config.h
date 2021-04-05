@@ -55,3 +55,19 @@
 
 #define MK_C_OFFSET_1 13
 #define MK_3_SPEED
+
+#define TAPPING_TERM 1200
+#define IGNORE_MOD_TAP_INTERRUPT
+
+//#define SPI_DRIVER          SPID1 //might change to SPID3 if necessary
+//#define SPI_SCK_PIN         F0
+//#define SPI_MISO_PIN        F1
+//#define SPI_MOSI_PIN        C7
+//#define AdafruitBleCSPin    B7
+//#define AdafruitBleIRQPin   E6
+//#define AdafruitBleResetPin D4
+
+
+//#define SPI_SCK_PAL_MODE    5
+//#define SPI_MISO_PAL_MODE   5
+//#define SPI_MOSI_PAL_MODE   5
